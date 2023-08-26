@@ -1,0 +1,22 @@
+{
+  "name": "mini-1-p-6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "Abdul Ghani",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "git": "^0.1.5",
+    "mongodb": "^5.8.0",
+    "node": "^20.5.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
